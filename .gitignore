@@ -1,0 +1,13 @@
+.Renviron
+.env
+.Rproj.user/
+data/
+outputs/eda/
+outputs/llm/
+outputs/completeness/
+!.Renviron.example
+!outputs/logs/
+!outputs/logs/run_log.txt
+renv/library/
+renv/local/
+renv/staging/
